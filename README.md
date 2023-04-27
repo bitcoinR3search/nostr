@@ -1,0 +1,2 @@
+# nostr
+Repositorio para nostr
